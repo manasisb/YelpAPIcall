@@ -1,10 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Manasi rajiv Weginwar(Yelp API calls) -->
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Install all the dependecy modules
 
 ### `npm start`
 
